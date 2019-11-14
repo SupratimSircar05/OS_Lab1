@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# swap 2 numbers using 2 vars and 3 vars
+
 # Taking Inputs
 echo 'Enter a number : '
 read num1

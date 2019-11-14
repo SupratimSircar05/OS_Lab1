@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# store time in seconds and display time in hours, minutes and seconds
+
 echo 'Enter time in seconds only : '
 read ts
 

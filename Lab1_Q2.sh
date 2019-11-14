@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# bash shell program to display sum and avg. of 5 numbers
+
 N=5
 
 i=1

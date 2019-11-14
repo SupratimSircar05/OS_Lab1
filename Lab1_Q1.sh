@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# bash shell program to display the result of all arithmetic operations performed on 2 numbers
+
 # Taking Inputs
 echo 'Enter a number : '
 read num1
@@ -17,6 +20,7 @@ echo "Difference = $(($num1 - $num2))"
 echo "Product = $(($num1 * $num2))"
 
 # Division
+# shellcheck disable=SC2004
 echo "Quotient = $(($num1 / $num2))"
 
 # Remainder

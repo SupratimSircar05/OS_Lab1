@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# display simple interest
+
 # Taking necessary inputs
 echo "Enter principal : "
 read p
